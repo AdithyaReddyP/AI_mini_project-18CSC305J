@@ -1,1 +1,2 @@
-# AI_mini_project-18CSC305J-
+# Ai-voice-based-assistant-using-python
+Allows user to search anything using voice assistant.
